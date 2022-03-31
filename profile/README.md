@@ -19,3 +19,15 @@ This organization contains a fork of the Rust compiler with added support for th
 
 [esp-rs/rust]: https://github.com/esp-rs/rust
 [esp-rs/rust-build]: https://github.com/esp-rs/rust-build
+
+### Hardware Abstraction Layer
+
+We offer two choices for **H**ardware **A**bstraction **L**ayers:
+
+| Repository           | Description                                                |
+| -------------------- | ---------------------------------------------------------- |
+| [esp-rs/esp-idf-hal] | _With_ support for the Rust standard library (`std`)       |
+| [esp-rs/esp-hal]     | _Without_ support for the Rust standard library (`no_std`) |
+
+[esp-rs/esp-idf-hal]: https://github.com/esp-rs/esp-idf-hal
+[esp-rs/esp-hal]: https://github.com/esp-rs/esp-hal
