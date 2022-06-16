@@ -4,9 +4,12 @@ This organization is home to a number of community projects enabling the use of 
 
 If you are just getting started with writing Rust for ESP devices, please first read [The Rust on ESP book].
 
+For a curated list of resouces for development including tools and projects, see [Awesome ESP Rust].
+
 [rust programming language]: https://www.rust-lang.org/
 [espressif systems]: https://www.espressif.com/
 [the rust on esp book]: https://esp-rs.github.io/book/
+[Awesome ESP Rust]: https://github.com/esp-rs/awesome-esp-rust
 
 ### Build Tools
 
@@ -31,3 +34,9 @@ We offer two choices for **H**ardware **A**bstraction **L**ayers:
 
 [esp-rs/esp-idf-hal]: https://github.com/esp-rs/esp-idf-hal
 [esp-rs/esp-hal]: https://github.com/esp-rs/esp-hal
+
+### Peripheral Access Crates
+
+The repository [esp-pacs] contains Peripheral Access Crates for Espressif SoCs and modules.
+
+[esp-pacs]: https://github.com/esp-rs/esp-pacs
