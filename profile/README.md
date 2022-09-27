@@ -40,3 +40,15 @@ We offer two choices for **H**ardware **A**bstraction **L**ayers:
 The repository [esp-pacs] contains Peripheral Access Crates for Espressif SoCs and modules.
 
 [esp-pacs]: https://github.com/esp-rs/esp-pacs
+
+### Quickstart
+
+There are two [cargo-generate] template projects available: 
+- [esp-rs/esp-idf-template]: Template for `std` applications based on top of ESP-IDF framework.
+  - `cargo generate --vcs none --git https://github.com/esp-rs/esp-idf-template cargo`
+- [esp-rs/esp-template]: Template for `no_std` applications.
+  - `cargo generate https://github.com/esp-rs/esp-template`
+
+[cargo-generate]: https://github.com/cargo-generate/cargo-generate
+[esp-rs/esp-idf-template]: https://github.com/esp-rs/esp-idf-template
+[esp-rs/esp-template]: https://github.com/esp-rs/esp-template
