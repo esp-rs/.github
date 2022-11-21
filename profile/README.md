@@ -19,9 +19,12 @@ This organization contains a fork of the Rust compiler with added support for th
 | ------------------- | ----------------------------------------------------------------------- |
 | [esp-rs/rust]       | Rust compiler fork with Xtensa support                                  |
 | [esp-rs/rust-build] | Pre-built binaries of the Rust compiler fork, plus installation scripts |
+| [esp-rs/espup]      | Tool for installing and maintaining ESP Rust ecosystem.                 |
+
 
 [esp-rs/rust]: https://github.com/esp-rs/rust
 [esp-rs/rust-build]: https://github.com/esp-rs/rust-build
+[esp-rs/espup]: https://github.com/esp-rs/espup
 
 ### Hardware Abstraction Layer
 
