@@ -2,14 +2,18 @@
 
 This organization is home to a number of community projects enabling the use of the [Rust programming language] on various SoCs and modules produced by [Espressif Systems].
 
-If you are just getting started with writing Rust for ESP devices, please first read [The Rust on ESP book].
+If you are just getting started with writing Rust for ESP devices, please first read [The Rust on ESP book]. Additionally, consider exploring the following training resources:
+  - [Embedded Rust (std) on Espressif]
+  - [Embedded Rust (no_std) on Espressif]
 
-For a curated list of resouces for development including tools and projects, see [Awesome ESP Rust].
+For a curated list of resources for development including tools and projects, see [Awesome ESP Rust].
 
 [rust programming language]: https://www.rust-lang.org/
 [espressif systems]: https://www.espressif.com/
 [the rust on esp book]: https://esp-rs.github.io/book/
 [Awesome ESP Rust]: https://github.com/esp-rs/awesome-esp-rust
+[Embedded Rust (std) on Espressif]: https://esp-rs.github.io/std-training/
+[Embedded Rust (no_std) on Espressif]: https://esp-rs.github.io/no_std-training/
 
 ### Build Tools
 
