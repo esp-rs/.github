@@ -1,4 +1,4 @@
-## Rust on ESP Community
+## Rust on Espressif microcontrollers
 
 This organization is home to several projects enabling the use of the [Rust programming language] on various SoCs and modules produced by [Espressif Systems].
 
